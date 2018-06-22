@@ -1,0 +1,14 @@
+.main-menu {
+  width: 200px;
+  height: calc(100vh - 191px);
+  background-color: #222;
+  border-top: 1px solid rgba(255, 255, 255, .1);
+}
+
+a {
+  display: block;
+  padding: 15px;
+  border-bottom: 1px solid rgba(255, 255, 255, .1);
+  color: #fff;
+  text-decoration: none;
+}
